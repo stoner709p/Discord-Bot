@@ -29,7 +29,7 @@
     "discord.js": "^11.5.1",
     "enmap": "^4.8.7",
     "inquirer": "^6.3.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.3.2"
   }
 }
